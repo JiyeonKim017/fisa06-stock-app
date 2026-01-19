@@ -5,4 +5,5 @@
 #  쓸모없는파일
 *.txt
 !requirements.txt
+!배포.txt
 st/
