@@ -7,3 +7,4 @@
 !requirements.txt
 !배포.txt
 st/
+.env
